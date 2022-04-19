@@ -1,7 +1,7 @@
 # PWA-Text-Editor
 
 ## Deployment
-* [Heroku Deployment](https://mvctechblogcnkp.herokuapp.com/)
+* [Heroku Deployment](https://obscure-river-45635.herokuapp.com/)
 
 ## Description
 
@@ -22,7 +22,7 @@ To install this program all you need is a text editor. I would recommend Visual 
 
 ## Demonstration
 
-Fairly self explanatory. Just enter some text and press Enter to save it to the cached storage.
+Fairly self explanatory. Just enter some text and press Enter to save it to the cached storage. Remember to clear storage data to remove cached data.
 ## Credits
 
 This application was created by kevin
