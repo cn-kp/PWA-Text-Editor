@@ -22,6 +22,7 @@ To install this program all you need is a text editor. I would recommend Visual 
 
 ## Demonstration
 
+Fairly self explanatory. Just enter some text and press Enter to save it to the cached storage.
 ## Credits
 
 This application was created by kevin
